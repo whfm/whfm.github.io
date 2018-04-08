@@ -8,7 +8,7 @@ Web Development (and yet in development).
 GAME RULES:
 
 - The game has 2 players, playing in rounds
-- In each turn, a player rolls a dice as many times as he wishes. Each result get added to his ROUND       score
-- BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn
-- The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After     that, it's the next player's turn
-- The first player to reach 100 points on GLOBAL score wins the game
+- Each turn a player has to roll a dice as many times as he wantss. Each result get added to his ROUND score.
+- However, if the player rolls "1", all player's ROUND score is lost. After that, it's the next player's turn.
+- The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn.
+- The first player to reach 100 points (or the determined in the input box) on GLOBAL score wins the game.
