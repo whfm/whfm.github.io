@@ -1,5 +1,5 @@
 # whfm.github.io
-Web Development
+Web Development (and yet in development).
 
 # Pig Game
 ##### A simple game for learning DOM manipulation and events
